@@ -2,3 +2,8 @@ Hello to GitHub!
 ///Edited///
 
 this line will be committed in new branch
+
+-Go in your pace but learn it!
+
+thankyou
+
