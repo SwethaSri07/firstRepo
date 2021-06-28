@@ -1,10 +1,9 @@
 Hello to GitHub!
 ///Edited///
 
-how long it takes to learn and contribute to github?
+this line will be committed in new branch
+
 -Go in your pace but learn it!
-
-
 
 thankyou
 
